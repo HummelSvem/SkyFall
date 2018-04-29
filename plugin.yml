@@ -3,7 +3,7 @@ author: Khinenw
 version: 0.0.1 alpha
 description: "A minigame which makes people fall from the sky. (a.k.a FREEDOM DiVE↓)"
 main: Khinenw\FreedomDive\FreedomDive
-api: 3.0.0-ALPHA11
+api: 3.0.0-ALPHA12
 
 permissions:
   freedomdive.*:
